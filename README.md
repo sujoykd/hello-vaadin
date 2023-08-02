@@ -1,4 +1,4 @@
-# Hackathon-24
+# Hello-Vaadin
 
 This application reads the tags of all the releases in `vaadin/platform` github repository and displays the data with various charts.
 There is also a provision to view the data in a spreadsheet within a dialog as well as to export the entire raw data.

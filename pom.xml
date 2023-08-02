@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/af39ae3d-6945-4d83-8d4d-c85ce54a4d57 -->
     <groupId>com.vaadin.hackathon</groupId>
-    <artifactId>hackathon-24</artifactId>
-    <name>hackathon-24</name>
+    <artifactId>hello-vaadin</artifactId>
+    <name>hello-vaadin</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
